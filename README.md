@@ -5,6 +5,7 @@ awesome web links
 * [Articles](#aricles)
 * [Forms](#forms)
 * [OSS](#OSS)
+* [People to follow](#people)
 
 ## HTML
 
@@ -17,3 +18,7 @@ awesome web links
 
 ## OSS
 * [Contributing to Node & OSS projects](https://medium.freecodecamp.org/contributing-to-open-source-is-not-hard-here-is-my-journey-to-contributing-to-nodejs-d10760e31194)
+
+
+## People & their sites
+* [https://lengstorf.com/speaking/](https://lengstorf.com/speaking/)
