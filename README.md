@@ -15,6 +15,7 @@ awesome web links
 
 ## ReactJS
 * [React Redux Tutorial for Beginners](https://www.valentinog.com/blog/react-redux-tutorial-beginners/)
+* [Redux-fundamentals-workshop-slides](https://blog.isquaredsoftware.com/2018/06/redux-fundamentals-workshop-slides/)
 ## Forms
 * [Design-better-forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)  - UX
 
