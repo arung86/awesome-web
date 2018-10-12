@@ -11,6 +11,8 @@ awesome web links
 
 ## HTML
 
+## CSS
+ * [ CSS Dinner - a Selector Test ](http://flukeout.github.io/)
 ## JavaScript
   * [Fundamental Object Design Patterns](https://medium.com/launch-school/javascript-weekly-fundamental-object-design-patterns-31453f68427f)
 
