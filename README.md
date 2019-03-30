@@ -20,6 +20,10 @@ awesome web links
 * [React Redux Tutorial for Beginners](https://www.valentinog.com/blog/react-redux-tutorial-beginners/)
 * [Redux-fundamentals-workshop-slides](https://blog.isquaredsoftware.com/2018/06/redux-fundamentals-workshop-slides/)
 
+### Authentication
+
+* [Protected Route](https://tylermcginnis.com/react-router-protected-routes-authentication/)
+
 ## GraphQL
 * [Getting started with GraphQL](http://www.react.express/graphql_getting_started)
 
