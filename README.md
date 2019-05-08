@@ -17,6 +17,7 @@ awesome web links
   * [Fundamental Object Design Patterns](https://medium.com/launch-school/javascript-weekly-fundamental-object-design-patterns-31453f68427f)
 
 ## ReactJS
+* [React Component Patterns](https://reactpatterns.com/)
 * [React Redux Tutorial for Beginners](https://www.valentinog.com/blog/react-redux-tutorial-beginners/)
 * [Redux-fundamentals-workshop-slides](https://blog.isquaredsoftware.com/2018/06/redux-fundamentals-workshop-slides/)
 
